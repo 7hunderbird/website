@@ -2,3 +2,7 @@
 [build.environment]
 HUGO_VERSION = "0.100.1"
 GO_VERSION = "1.18.3"
+
+[context.production.environment]
+HUGO_ENV = "production"
+HUGO_BASEURL = "https://www.tylerbird.com/"
