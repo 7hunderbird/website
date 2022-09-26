@@ -21,6 +21,10 @@ enableGitInfo = true
 tag = "tags"
 category = "categories"
 
+# Adding Mermaid
+[params.mermaid]
+enable = true
+
 [params.taxonomy]
 # set taxonomyCloud = [] to hide taxonomy clouds
 taxonomyCloud = ["tags", "categories"] 
@@ -89,7 +93,7 @@ time_format_blog = "2006.01.02"
     # See a complete list of available styles at https://xyproto.github.io/splash/docs/all.html
     style = "tango"
     # Uncomment if you want your chosen highlight style used for code blocks without a specified language
-    # guessSyntax = "true"
+    guessSyntax = false
 
 # Everything below this are Site Params
 
