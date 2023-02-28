@@ -124,12 +124,12 @@ version = "0.0"
 
 # A link to latest version of the docs. Used in the "version-banner" partial to
 # point people to the main doc site.
-url_latest_version = "https://example.com"
+# url_latest_version = "https://example.com"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/google/docsy-example"
+# github_repo = "https://github.com/google/docsy-example"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-github_project_repo = "https://github.com/google/docsy"
+# github_project_repo = "https://github.com/google/docsy"
 
 # Specify a value here if your content directory is not in your repo's root directory
 # github_subdir = ""
@@ -192,7 +192,7 @@ enable = false
   name ="Twitter"
   url = "https://www.twitter.com/7hunderbird"
   icon = "fab fa-twitter"
-  desc = "Follow us on Twitter to get the latest news!"
+  desc = "Follow 7hunderbird on Twitter"
 # [[params.links.user]]
 #   name = "Stack Overflow"
 #   url = "https://example.org/stack"
@@ -203,7 +203,7 @@ enable = false
   name = "GitHub"
   url = "https://github.com/7hunderbird"
   icon = "fab fa-github"
-  desc = "Development takes place here!"
+  desc = "Follow 7hunderbird on GitHub"
 # [[params.links.developer]]
 #   name = "Slack"
 #   url = "https://example.org/slack"
