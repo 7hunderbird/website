@@ -5,4 +5,4 @@ GO_VERSION = "1.18.3"
 
 [context.production.environment]
 HUGO_ENV = "production"
-HUGO_BASEURL = "https://www.tylerbird.com/"
+HUGO_BASEURL = "https://tylerbird.com/"
