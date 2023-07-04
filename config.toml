@@ -65,8 +65,9 @@ id = "UA-46023920-2"
 [languages]
 [languages.en]
 title = "tylerbird.com"
-description = "The world wide website of Tyler Bird"
 languageName ="English"
+[languages.en.params]
+description = "The world wide website of Tyler Bird"
 # Weight used for sorting.
 weight = 1
 # [languages.no]
