@@ -1,8 +1,9 @@
 
 ---
 title: "News About Docsy"
-linkTitle: "News"
+linkTitle: "Mt. Dews"
 weight: 20
+draft: true
 ---
 
 
