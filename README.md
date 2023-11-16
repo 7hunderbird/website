@@ -1,5 +1,5 @@
 # tylerbird.com
 
-My website build with Docsy.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/474cc585-9898-4311-a27e-dc0dd67a4bc1/deploy-status)](https://app.netlify.com/sites/tylerbird-com/deploys)
 
-I want to make it clearly an "under construction" until this is really going.
+A personal biography blog for Tyler Bird a neat guy you should know.
